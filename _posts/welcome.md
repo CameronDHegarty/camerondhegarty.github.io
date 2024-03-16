@@ -1,7 +1,7 @@
 ---
 title: Welcome
 date: 2024-03-16 15:54:00 -0500
-categories: [Test]
+categories: [test]
 tags: [testing]     # TAG names should always be lowercase
 ---
 
