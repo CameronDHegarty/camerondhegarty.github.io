@@ -14,9 +14,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Networking Notes # the main title
+title: Cameron's Networking Notes # the main title
 
-tagline: Networking Notes # it will display as the sub-title
+tagline: Network notes for CCNP ENARSI, and beyond! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Network notes for CCNP ENARSI
