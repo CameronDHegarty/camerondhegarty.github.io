@@ -14,12 +14,12 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cameron's Networking Notes # the main title
+title: Cameron's Technical Notes # the main title
 
-tagline: Network notes for CCNP ENARSI, and beyond! # it will display as the sub-title
+tagline: Technicals notes for CCNP ENARSI, and beyond! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Network notes for CCNP ENARSI
+  Technical notes for CCNP ENARSI
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
