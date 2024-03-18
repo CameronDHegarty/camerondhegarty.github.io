@@ -5,7 +5,6 @@ categories: [CCNP,AAA]
 tags: [routersecurity,aaa,cisco]     # TAG names should always be lowercase
 ---
 
-Coming Soon to a notetaking webpage near you
 
 ### References:
 
