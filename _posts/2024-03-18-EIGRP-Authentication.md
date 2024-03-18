@@ -1,8 +1,8 @@
 ---
 title: EIGRP Authentication
 date: 2024-03-18 12:00:00 -0500
-categories: [CCNP,EIGRP]
-tags: [eigrp]     # TAG names should always be lowercase
+categories: [Layer 3 Technologies,EIGRP]
+tags: [eigrp,enarsi]     # TAG names should always be lowercase
 ---
 
 Note: Updates will continue to be made to this as I learn more about this topic and how it interacts with others. Additionally, if any mistakes are found, please email me and I will correct. Any corrections would be welcome!
@@ -20,6 +20,7 @@ Note: Updates will continue to be made to this as I learn more about this topic 
 
 * Configure a key chain
 * Apply the key chain to be used by the eigrp process
+  * If using EIGRP named mode with HMAC-SHA-256, a key chain is not required
 
 
 
