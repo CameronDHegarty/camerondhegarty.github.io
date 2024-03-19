@@ -2,7 +2,7 @@
 title: EIGRP Filtering & Summarization
 date: 2024-03-18 15:54:00 -0500
 categories: [Layer 3 Technologies,EIGRP]
-tags: [eigrp]     # TAG names should always be lowercase
+tags: [eigrp,enarsi]     # TAG names should always be lowercase
 ---
 
 

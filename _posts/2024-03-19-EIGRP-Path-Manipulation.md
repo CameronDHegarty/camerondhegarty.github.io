@@ -2,7 +2,7 @@
 title: EIGRP Path Maniuplation
 date: 2024-03-19 10:50:00 -0500
 categories: [Layer 3 Technologies,EIGRP]
-tags: [eigrp]     # TAG names should always be lowercase
+tags: [eigrp,enarsi]     # TAG names should always be lowercase
 ---
 
 
