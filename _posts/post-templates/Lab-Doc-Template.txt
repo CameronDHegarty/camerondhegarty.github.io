@@ -1,0 +1,91 @@
+---
+title: ENARSI Lab 1
+date: 2024-03-18 16:30:00 -0500
+categories: [CCNP Labs,ENARSI]
+tags: [cisco,enarsi]     # TAG names should always be lowercase
+---
+
+**Note:** One of the things that I noticed on my first attempt of the ENARSI exam was that I was very poor at going into new topologies, evaluating them, and quickly making the required configurations. To help myself with this, I'm creating multiple different topologies, but also multiple labs with the same topologies that have different IP addressing. Due to this, the image of the lab topology does not contain any addressing information.
+
+## Topology
+
+
+
+## Tasks
+* To start, please setup the topology as seen in the image above and copy the configuration to each device
+
+## Configuration:
+
+### R1 Configuration
+
+```
+conf t
+hostname R1
+line con 0
+logging sync
+```
+
+### R2 Configuration
+
+```
+conf t
+hostname R2
+line con 0
+logging sync
+```
+
+### R3 Configuration
+
+```
+conf t
+hostname R3
+line con 0
+logging sync
+```
+
+### R4 Configuration
+
+```
+conf t
+hostname R4
+line con 0
+logging sync
+```
+
+### R5 Configuration
+
+```
+conf t
+hostname R5
+line con 0
+logging sync
+```
+
+### R6 Configuration
+
+```
+conf t
+hostname R6
+line con 0
+logging sync
+```
+
+### R7 Configuration
+
+```
+conf t
+hostname R7
+line con 0
+logging sync
+```
+
+### R8 Configuration
+
+```
+conf t
+hostname R8
+line con 0
+logging sync
+```
+
+
