@@ -35,8 +35,14 @@ ipv6 access-list FILTER
 ! Apply it to an interface (it can be applied inbound our outbound)
 interface GigabitEthernet0/0
  ipv6 traffic-filter FILTER in
+```
 
+## Debug and Show Commands
 
+```
+IPv6 access list FILTER
+    deny ipv6 2001:DB8:1:1::/64 2001:DB8:2:2::/64 sequence 10
+    permit ipv6 any any (3 matches) sequence 20
 ```
 
 ## References
