@@ -50,6 +50,19 @@ Bandwidth is the lowest bandwidth link in the path
 
 Delay is the accumulated delay between this router and the destination network
 
+## Max Hop Count
+
+EIGRP also tracks hop count to the destination network. 
+* The default maximum hop count is 100
+* The maximum hop count can be raised or lowered
+* If the hop count is greater than the maximum hop count, the route metric is set to infinity, removed from the EIGRP Topology and thus not installed into the routing table
+
+```
+! Set under the router configuration mode with the below command
+metric maximum-hops 15
+
+```
+
 #### Configuration:
 
 ```
