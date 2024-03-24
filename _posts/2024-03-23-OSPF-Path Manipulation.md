@@ -207,4 +207,4 @@ ip ospf database-filter all out
 
 ## References
 
-Many of these topics were learned from [INE's](www.ine.com) professional level labs. These labs are by far the best and in depth labs on routing protocols I've seen studying for the CCNP. Definetly worth the money you'd spend on a subscription!
+Many of these topics were learned from INE's professional level labs. These labs are by far the best and in depth labs on routing protocols I've seen studying for the CCNP. Definetly worth the money you'd spend on a subscription!
