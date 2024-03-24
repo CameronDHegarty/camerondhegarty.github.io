@@ -2,7 +2,7 @@
 title: OSPF Path Manipulation & Additional features
 date: 2024-03-23 14:54:00 -0500
 categories: [Layer 3 Technologies,OSPF]
-tags: [ospf]     # TAG names should always be lowercase
+tags: [ospf,enarsi]     # TAG names should always be lowercase
 ---
 
 Note: Updates will continue to be made to this as I learn more about this topic and how it interacts with others. Additionally, if any mistakes are found, please email me and I will correct. Any corrections would be welcome!
